@@ -1,4 +1,4 @@
-# Analytical skills.
+# Analytical skills
 
 Qualities and characteristics associates with solving problems using facts.
 
@@ -12,3 +12,20 @@ Qualities and characteristics associates with solving problems using facts.
 
 5. Data strategy: The management of the people, processes and tools used in data analysis
 
+---
+
+## Analytical Thinking
+
+Identifying and defining a problem and then solving it by using data in an organized, step by step manner
+
+The five key aspects to analytical thinking:
+
+1. Visualization: The graphical representation of information
+
+2. Strategy: Strategizing helps data analysts see what they want to achieve with the data and how they can get there. Strategy also helps improve the quality and usefulness of the data we collect. By strategizing, we know all our data is valuable and can help us accomplish our goals.
+
+3. Problem orientation: describe, and solve problems
+
+4. Correlation: relationships  between in data,equal correlation dosn't equal causation
+
+5. Big-picture and detail-oriented thinking: This leads to exciting new ideas or innovations. abput figuring out all of the aspects that will help you execute a plan
