@@ -29,3 +29,9 @@ The five key aspects to analytical thinking:
 4. Correlation: relationships  between in data,equal correlation dosn't equal causation
 
 5. Big-picture and detail-oriented thinking: This leads to exciting new ideas or innovations. abput figuring out all of the aspects that will help you execute a plan
+
+Root cause: The reason why a problem occurs
+
+[Just Ask "why" five times](https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times)
+
+Gap analysis: A method for examing and evaluation how a processs works currently in order to get where yo want to be in the future
