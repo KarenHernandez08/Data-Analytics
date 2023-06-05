@@ -35,3 +35,5 @@ Root cause: The reason why a problem occurs
 [Just Ask "why" five times](https://www.fastcompany.com/1669738/to-get-to-the-root-of-a-hard-problem-just-ask-why-five-times)
 
 Gap analysis: A method for examing and evaluation how a processs works currently in order to get where yo want to be in the future
+
+A quartile divides data points into four equal parts
