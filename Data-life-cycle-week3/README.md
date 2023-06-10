@@ -20,14 +20,69 @@ Phases:
 
 A collection of data stored in a computer system
 
-Links
+## Phases of data analysis
 
-https://online.hbs.edu/blog/post/data-life-cycle
+stakeholders: People who have invested time and resources into a project and are interested in the outcome
 
-https://sfmagazine.com/articles/2018/july/the-data-life-cycle/?psso=true
+Look at the current state and identify how it's different  from the ideal state
 
-https://www.usgs.gov/data-management/data-lifecycle
+Determine who the stakeholders are
 
-https://www.fws.gov/data/life-cycle
+How the data analysis process guides this program
 
-https://www.coursera.org/learn/aspectos-basicos-datos-datos-en-todas-partes/supplement/WWlrt/origenes-del-proceso-de-analisis-de-datos
+Ask
+
+- Ask effective questions
+- Define the problem
+- Using structured thinking
+- Communicating with others
+
+Prepare
+
+- Understand how data is generated and collected
+- Identify and use different data formats, types and structures
+- Ensure that data is unbiased and credible
+- Organize and protect data
+
+Process
+
+- Create and transform data
+- Maintain data integrity
+- Test data
+- Clean data
+- Verify and report on cleaning results
+
+Analyze
+
+- Use tools for formatting and transforming data
+- Sort and filter data
+- Identify patterns and draw conclusions
+- Make predictions and recommendations
+- Make data-driven decisions
+
+Share
+
+- Understand visualization
+- Create effective visual
+- Bring data to life
+- Use data storytelling
+- Communicate to help others understand the results
+
+Act
+
+- Apply your knowledge
+- Solve problems
+- Make decisions
+- Create something new
+
+## Links
+
+<https://online.hbs.edu/blog/post/data-life-cycle>
+
+<https://sfmagazine.com/articles/2018/july/the-data-life-cycle/?psso=true>
+
+<https://www.usgs.gov/data-management/data-lifecycle>
+
+<https://www.fws.gov/data/life-cycle>
+
+<https://www.coursera.org/learn/aspectos-basicos-datos-datos-en-todas-partes/supplement/WWlrt/origenes-del-proceso-de-analisis-de-datos>
