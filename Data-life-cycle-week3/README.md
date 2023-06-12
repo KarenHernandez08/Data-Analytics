@@ -75,6 +75,33 @@ Act
 - Make decisions
 - Create something new
 
+## Tools data analyst
+
+- Spreadsheets (Microsoft Excel and Google Sheets)
+
+  - Collect, store, organize, and order information.
+  - Identify patterns and collect data in a way that suits each specific data project.
+  - Create outstanding data visualizations, such as charts and tables.
+
+- Query languages for databases (SQL, Microsoft SQL Server and BigQuery)
+
+  - Facilitate learning and understanding of requests made to databases
+  - Enable analysts to select, create, add, or download data from a database for analysis
+
+- visualization tools (Tableau and Looker)
+  
+  - Convert the numbers into something that can be understood
+  - Help stakeholders draw conclusions that lead to informed decisions and effective business strategies
+  - Have multiple characteristics
+
+Formula: A set of instructions that performs a specific calculation using the data in a spreadsheet
+
+Function: A preset command that automatically performs a specific process or task using the data in a spreadsheet
+
+Query language: A computer programming language that allows you to retrieve and manipulate data from a database
+
+Data visualization: the graphical representation of information
+
 ## Links
 
 <https://online.hbs.edu/blog/post/data-life-cycle>
