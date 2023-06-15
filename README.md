@@ -30,19 +30,19 @@ Sharing and communicating results.
 6. Act
 Search for the best way to implement the changes and take action based on the results.
 
-https://online.hbs.edu/blog/post/business-analytics-examples
+<https://online.hbs.edu/blog/post/business-analytics-examples>
 
 ***
 
-## The data ecosystems.
+## The data ecosystems
 
-An ecosystem is a group of elements that interact with one another. 
+An ecosystem is a group of elements that interact with one another.
 
 **Data ecosystems**: The various elements that interact with one another to produce, manage, store, organize, analyze and share data.
 
 **Cloud**: A place to keep data online, rather than a computer hard drive.
 
-**Data science**: Creating new ways of modeling and understanding the unknown by using raw data. 
+**Data science**: Creating new ways of modeling and understanding the unknown by using raw data.
 
 > Data scientists create new questions using data, while analysts find answers to existing questions by creating insights from data sources.
 
@@ -53,7 +53,7 @@ Using facts to guide business strategy.
 
 ***
 
-## EMC Data analytics life cycle.
+## EMC Data Analytics life cycle
 
 1. Discovery
 2. Preparation
@@ -62,7 +62,7 @@ Using facts to guide business strategy.
 5. Communicate results
 6. operationalize
 
-## SAS iterative life cycle.
+## SAS iterative life cycle
 
 1. Ask
 2. Prepare
@@ -90,11 +90,12 @@ Using facts to guide business strategy.
 6. Data aggregation and representation
 7. Data analysis
 8. Data visualization
-9. Utilization of analysis results 
+9. Utilization of analysis results
 
-`LINKS`
-http://pingax.com/understanding-data-analytics-project-life-cycle/
+## LINKS
 
-https://www.sas.com/content/dam/SAS/en_us/doc/whitepaper1/manage-analytical-life-cycle-continuous-innovation-106179.pdf
+<http://pingax.com/understanding-data-analytics-project-life-cycle/>
 
-https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11&ranMID=24808
+<https://www.sas.com/content/dam/SAS/en_us/doc/whitepaper1/manage-analytical-life-cycle-continuous-innovation-106179.pdf>
+
+<https://www.informit.com/articles/article.aspx?p=2473128&seqNum=11&ranMID=24808>
