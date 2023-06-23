@@ -24,6 +24,14 @@ FROM (from the appropriate table)
 
 WHERE (a certain condition is met)
 
+`Issue` A topic or subject to investigate
+
+`Question` Designed to discover information
+
+`Problem` An obstacle or complication that needs to be worked out
+
+`Business task` the question or problem data analysis answers for a business
+
 Link:
 
 [Google Sheets training and help](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1)
