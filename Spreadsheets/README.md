@@ -32,6 +32,8 @@ WHERE (a certain condition is met)
 
 `Business task` the question or problem data analysis answers for a business
 
+`Fairness` Ensuring that your analysis doesn't create or reinforce bias
+
 Link:
 
 [Google Sheets training and help](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1)
