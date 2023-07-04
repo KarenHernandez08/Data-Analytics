@@ -29,3 +29,13 @@ Relevant questions matter, are important, and have significance to the problem y
 Time-bound questions specify the time to be studied
 
 Fairness: Ensuring that your questions don't create or reinforce bias
+
+## How data plays into the decision-making process
+
+Data-inpired decision-making explores different data sources to find out waht they have in common
+
+Algorithm a process or ser of rules to be followed for a specific task
+
+`Quantitative data` specific and objective measures of numerical facts
+
+`Qualitative data` subjective or explanatory measures of qualities and characteristics
