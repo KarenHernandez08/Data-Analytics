@@ -67,3 +67,5 @@ Cons:
 - Labor-intensive design
 - Can be confusing
 - Potencially uncleaned data
+
+`Pivot table` a data summarication tool that is used in data processing. Pivot tables are used to summarize, sort, reorganize, group, count, total or average data stored in a database.
