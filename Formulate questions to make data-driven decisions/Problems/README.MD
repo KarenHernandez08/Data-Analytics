@@ -39,3 +39,31 @@ Algorithm a process or ser of rules to be followed for a specific task
 `Quantitative data` specific and objective measures of numerical facts
 
 `Qualitative data` subjective or explanatory measures of qualities and characteristics
+
+## Report and Dashboards
+
+`Report` is static collection of data given to stakeholders periodically
+Pros:
+
+- High-level historical data
+- Easy to design
+- Pre_cleaned and sorted data
+
+Cons:
+
+- Continual maintenance
+- Less viasully appealing
+- Static
+
+`Dashboard` monitors live, incoming data
+Pros:
+
+- Dynamic, automatic, and interactive
+- More stakeholders access
+- Low maintenance
+
+Cons:
+
+- Labor-intensive design
+- Can be confusing
+- Potencially uncleaned data
