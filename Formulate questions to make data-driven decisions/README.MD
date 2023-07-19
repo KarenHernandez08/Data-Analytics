@@ -79,3 +79,9 @@ The ROI is made up of two metrics, the net profit over a period of time and the 
 `Metrics can be used to help calculate customer retention rates, or a company's ability to keep its customers over time.`
 
 This metric goal is a measurable goal set by a company and evaluated using metrics.
+
+Structured thinking is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options
+
+A scope of work or SOW is an agreed- upon outline of the work you're going to perform on a project.
+
+Earlier, we learnt that context is the condition in which something exists or happens.
